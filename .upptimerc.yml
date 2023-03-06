@@ -11,6 +11,12 @@ sites:
     - 404
   - name: Mastodon
     url: https://mastodon.erdbeerbaerlp.de
+  - name: Switch LAN-Play Server
+    url: http://erdbeerbaerlp.de:11451
+  - name: Discord Integration Minecraft Server
+    check: "tcp-ping"
+    url: erdbeerbaerlp.de
+    port: 25565
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
