@@ -19,6 +19,7 @@ sites:
     check: "tcp-ping"
     url: erdbeerbaerlp.de
     port: 25565
+    icon: https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon-32x32.png
 
 status-website:
   cname: status.erdbeerbaerlp.de
