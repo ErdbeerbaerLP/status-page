@@ -4,18 +4,20 @@
     "url": "https://repo.erdbeerbaerlp.de",
     "icon": "https://icons.duckduckgo.com/ip3/repo.erdbeerbaerlp.de.ico",
     "slug": "maven-repo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 478,
-    "timeDay": 478,
-    "timeWeek": 478,
-    "timeMonth": 478,
-    "timeYear": 478,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.18%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
+    "time": 455,
+    "timeDay": 455,
+    "timeWeek": 455,
+    "timeMonth": 455,
+    "timeYear": 455,
+    "dailyMinutesDown": {
+      "2023-03-06": 0
+    }
   },
   {
     "name": "Discord Integration API",
