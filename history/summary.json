@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 562,
-    "timeDay": 521,
-    "timeWeek": 620,
-    "timeMonth": 562,
-    "timeYear": 562,
+    "time": 559,
+    "timeDay": 504,
+    "timeWeek": 633,
+    "timeMonth": 559,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2023-03-06": 7
     }
@@ -25,16 +25,16 @@
     "icon": "https://cdn.discordapp.com/emojis/1028921787922255872.webp?size=44&quality=lossless",
     "slug": "discord-integration-api",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 488,
-    "timeDay": 506,
-    "timeWeek": 484,
-    "timeMonth": 488,
-    "timeYear": 488,
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 489,
+    "timeDay": 497,
+    "timeWeek": 497,
+    "timeMonth": 489,
+    "timeYear": 489,
     "dailyMinutesDown": {
       "2023-03-09": 22
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 875,
-    "timeWeek": 670,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "time": 678,
+    "timeDay": 684,
+    "timeWeek": 692,
+    "timeMonth": 678,
+    "timeYear": 678,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 161,
-    "timeWeek": 123,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 147,
+    "timeDay": 145,
+    "timeWeek": 129,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
-    "timeDay": 161,
-    "timeWeek": 122,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "time": 130,
+    "timeDay": 145,
+    "timeWeek": 129,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   }
 ]
